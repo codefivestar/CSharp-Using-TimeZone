@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Using-Datetime-Format", "CSharp-Using-Datetime-Format\CSharp-Using-Datetime-Format.csproj", "{C54AB927-6120-4D1A-B587-1DA124D6E146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54AB927-6120-4D1A-B587-1DA124D6E146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54AB927-6120-4D1A-B587-1DA124D6E146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54AB927-6120-4D1A-B587-1DA124D6E146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54AB927-6120-4D1A-B587-1DA124D6E146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECFCB0ED-6171-4EAA-A4B8-DEEF08931A72}
+	EndGlobalSection
+EndGlobal

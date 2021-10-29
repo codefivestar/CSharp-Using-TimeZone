@@ -1,0 +1,7 @@
+C:\Users\pugah\Source\Repos\CSharp-Using-Datetime-Format\CSharp-Using-Datetime-Format\bin\Debug\CSharp-Using-Datetime-Format.exe.config
+C:\Users\pugah\Source\Repos\CSharp-Using-Datetime-Format\CSharp-Using-Datetime-Format\bin\Debug\CSharp-Using-Datetime-Format.exe
+C:\Users\pugah\Source\Repos\CSharp-Using-Datetime-Format\CSharp-Using-Datetime-Format\bin\Debug\CSharp-Using-Datetime-Format.pdb
+C:\Users\pugah\Source\Repos\CSharp-Using-Datetime-Format\CSharp-Using-Datetime-Format\obj\Debug\CSharp-Using-Datetime-Format.csprojAssemblyReference.cache
+C:\Users\pugah\Source\Repos\CSharp-Using-Datetime-Format\CSharp-Using-Datetime-Format\obj\Debug\CSharp-Using-Datetime-Format.csproj.CoreCompileInputs.cache
+C:\Users\pugah\Source\Repos\CSharp-Using-Datetime-Format\CSharp-Using-Datetime-Format\obj\Debug\CSharp-Using-Datetime-Format.exe
+C:\Users\pugah\Source\Repos\CSharp-Using-Datetime-Format\CSharp-Using-Datetime-Format\obj\Debug\CSharp-Using-Datetime-Format.pdb
